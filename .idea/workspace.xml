@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="487fa76e-57cf-42a2-af45-506c7797efad" name="Default Changelist" comment="" />
+    <list default="true" id="487fa76e-57cf-42a2-af45-506c7797efad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,6 +44,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ftl" value="1" />
+          <entry key="gitignore" value="1" />
           <entry key="java" value="4" />
           <entry key="xml" value="1" />
         </counts>
@@ -49,6 +52,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="FTL" value="1" />
+          <entry key="Git file" value="1" />
           <entry key="JAVA" value="4" />
           <entry key="XML" value="1" />
         </counts>
@@ -81,7 +85,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/io/onelist/HelloWorldSparkStyle.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="407">
@@ -89,6 +93,15 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -131,6 +144,7 @@
         <option value="$PROJECT_DIR$/src/main/java/io/onelist/HelloWorldFreeMarkerStyle.java" />
         <option value="$PROJECT_DIR$/src/main/java/io/onelist/HelloWorldFreemarkerStyle.java" />
         <option value="$PROJECT_DIR$/src/main/java/io/onelist/HelloWorldSparkStyle.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -241,7 +255,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533710885517" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533713468288" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Problems" />
@@ -315,18 +329,18 @@
       <option name="presentableId" value="Default" />
       <updated>1533705162200</updated>
       <workItem from="1533705166566" duration="601000" />
-      <workItem from="1533705810250" duration="3859000" />
+      <workItem from="1533705810250" duration="4098000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4460000" />
+    <option name="totallyTimeSpent" value="4699000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="38" y="23" width="1016" height="952" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17453799" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17453799" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -341,7 +355,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Amazon EC2" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32938388" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32938388" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5004445" side_tool="true" weight="0.32819906" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49955556" weight="0.32819906" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
@@ -404,6 +418,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
